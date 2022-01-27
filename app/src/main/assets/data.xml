@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <designation>smartphone</designation>
+        <price>3500</price>
+    </product>
+    <product>
+        <id>2</id>
+        <designation>laptop</designation>
+        <price>15000</price>
+    </product>
+    <product>
+        <id>3</id>
+        <designation>wrist watch</designation>
+        <price>1000</price>
+    </product>
+    <product>
+        <id>4</id>
+        <designation>iPhone</designation>
+        <price>15000</price>
+    </product>
+</products>
